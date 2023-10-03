@@ -8,4 +8,4 @@ def fizzbuzz():
         if num % 5 == 0:
             print("Buzz", end="")
         if num != 101:
-            print(" ", end="") 
+            print(" ", end="")
